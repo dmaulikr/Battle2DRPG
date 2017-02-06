@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle2DRPG.Plugins", "Battle2DRPG.Plugins.csproj", "{1EC80F74-41D5-1DE0-879B-1ACF069FF958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle2DRPG", "Battle2DRPG.csproj", "{AD2DCCD9-870A-FAB3-0A73-F2CCB4EDB574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC80F74-41D5-1DE0-879B-1ACF069FF958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC80F74-41D5-1DE0-879B-1ACF069FF958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC80F74-41D5-1DE0-879B-1ACF069FF958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC80F74-41D5-1DE0-879B-1ACF069FF958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2DCCD9-870A-FAB3-0A73-F2CCB4EDB574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2DCCD9-870A-FAB3-0A73-F2CCB4EDB574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2DCCD9-870A-FAB3-0A73-F2CCB4EDB574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2DCCD9-870A-FAB3-0A73-F2CCB4EDB574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
